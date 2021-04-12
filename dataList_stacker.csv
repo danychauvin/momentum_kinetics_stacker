@@ -1,0 +1,5 @@
+date,description,plate,data_path,plate_map_path
+20210409,20210409testrun,pl1,/scicore/home/nimwegen/rocasu25/Documents/Projects/biozentrum/momentum_kinetics_stacker/data_stacker/Plate1_210408_111637.txt,/scicore/home/nimwegen/rocasu25/Documents/Projects/biozentrum/momentum_kinetics_stacker/plate_maps_stacker/pl1_map.csv
+20210409,20210409testrun,pl2,/scicore/home/nimwegen/rocasu25/Documents/Projects/biozentrum/momentum_kinetics_stacker/data_stacker/Plate2_210408_111921.txt,/scicore/home/nimwegen/rocasu25/Documents/Projects/biozentrum/momentum_kinetics_stacker/plate_maps_stacker/pl2_map.csv
+20210409,20210409testrun,pl3,/scicore/home/nimwegen/rocasu25/Documents/Projects/biozentrum/momentum_kinetics_stacker/data_stacker/Plate3_210408_111934.txt,/scicore/home/nimwegen/rocasu25/Documents/Projects/biozentrum/momentum_kinetics_stacker/plate_maps_stacker/pl3_map.csv
+20210409,20210409testrun,pl4,/scicore/home/nimwegen/rocasu25/Documents/Projects/biozentrum/momentum_kinetics_stacker/data_stacker/Plate4_210408_112047.txt,/scicore/home/nimwegen/rocasu25/Documents/Projects/biozentrum/momentum_kinetics_stacker/plate_maps_stacker/pl4_map.csv

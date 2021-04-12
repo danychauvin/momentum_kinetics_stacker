@@ -1,0 +1,21 @@
+Type: condition,,,,,,,,,,,,
+,1,2,3,4,5,6,7,8,9,10,11,12
+A,glucose,glucose,glucose,glucose,glucose,glucose,glucose,glucose,glucose,glucose,glucose,glucose
+B,glucose,glucose,glucose,glucose,glucose,glucose,glucose,glucose,glucose,glucose,glucose,glucose
+C,glucose,glucose,glucose,glucose,glucose,glucose,glucose,glucose,glucose,glucose,glucose,glucose
+D,glucose,glucose,glucose,glucose,glucose,glucose,glucose,glucose,glucose,glucose,glucose,glucose
+E,glucose,glucose,glucose,glucose,glucose,glucose,glucose,glucose,glucose,glucose,glucose,glucose
+F,glucose,glucose,glucose,glucose,glucose,glucose,glucose,glucose,glucose,glucose,glucose,glucose
+G,glucose,glucose,glucose,glucose,glucose,glucose,glucose,glucose,glucose,glucose,glucose,glucose
+H,glucose,glucose,glucose,glucose,glucose,glucose,glucose,glucose,glucose,glucose,glucose,glucose
+,,,,,,,,,,,,
+Type: strain,,,,,,,,,,,,
+,1,2,3,4,5,6,7,8,9,10,11,12
+A,empty,MG1655,ch-hi1,ch-hi1,pl-hi1,pl-hi1,p2-A7,p2-A8,p2-A9,p2-A10,p2-A11,p2-A12
+B,empty,MG1655,ch-hi3,ch-hi3,pl-hi3,pl-hi3,p2-B7,p2-B8,p2-B9,p2-B10,p2-B11,p2-B12
+C,empty,MG1655,ch-med2,ch-med2,pl-med2,pl-med2,p2-C7,p2-C8,p2-C9,p2-C10,p2-C11,p2-C12
+D,empty,MG1655,ch-med3,ch-med3,pl-med3,pl-med3,p2-D7,p2-D8,p2-D9,p2-D10,p2-D11,p2-D12
+E,empty,MG1655,ch-rplN,ch-rplN,pl-rplN,pl-rplN,p2-E7,p2-E8,p2-E9,p2-E10,p2-E11,p2-E12
+F,empty,MG1655,ch-rpmB,ch-rpmB,pl-rpmB,pl-rpmB,p2-F7,p2-F8,p2-F9,p2-F10,p2-F11,p2-F12
+G,empty,MG1655,ch-rpsB,ch-rpsB,pl-rpsB,pl-rpsB,p2-G7,p2-G8,p2-G9,p2-G10,p2-G11,p2-G12
+H,empty,MG1655,ch-rrnB,ch-rrnB,pl-rrnB,pl-rrnB,p2-H7,p2-H8,p2-H9,p2-H10,p2-H11,p2-H12

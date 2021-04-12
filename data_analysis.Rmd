@@ -1,0 +1,24 @@
+---
+title: "data_analysis.Rmd"
+author: "Dany Chauvin"
+date: "2/4/2021"
+output: html_document
+---
+
+# Importing modules and functions
+
+```{r}
+dir_path_to_code <- "/scicore/home/nimwegen/rocasu25/Documents/Projects/biozentrum/momentum_kinetics_stacker"
+path_to_data_list <- "/scicore/home/nimwegen/rocasu25/Documents/Projects/biozentrum/momentum_kinetics_stacker/dataList_stacker.csv"
+# DO NOT EDIT BELOW
+source(sprintf("%s/load_packages_functions.R",dir_path_to_code))
+source(sprintf("%s/import_data.R",dir_path_to_code))
+```
+
+# Analyse data
+
+```{r}
+mydata
+```
+
+
